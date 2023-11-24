@@ -1,0 +1,35 @@
+/* Resume.css */
+#resume {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    max-width: 1200px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  #resume table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  #resume td,
+  #resume th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #resume th {
+    background-color: #e3fcff;
+    color: #333;
+  }
+  
+  #resume .pledge {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
